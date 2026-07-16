@@ -1,0 +1,12 @@
+{
+  "mode": "gemini",
+  "ollama_model": "mistral",
+  "gemini_api_key": "AQ.Ab8RN6JNTR_sd1nztGIz36_k5XEMrHE4NMuR3fd5lboAiFToyA",
+  "notifications_enabled": false,
+  "resend_api_key": "",
+  "email_to": "",
+  "email_from": "TGR Platform <noreply@resend.dev>",
+  "notify_anomalie": true,
+  "notify_ocr": true,
+  "notify_assistant": false
+}
